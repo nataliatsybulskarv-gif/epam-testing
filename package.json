@@ -1,0 +1,21 @@
+{
+  "name": "epam-testing",
+  "version": "1.0.0",
+  "description": "EPAM testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliatsybulskarv-gif/epam-testing.git"
+  },
+  "keywords": [],
+  "author": "Nataliia",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nataliatsybulskarv-gif/epam-testing/issues"
+  },
+  "homepage": "https://github.com/nataliatsybulskarv-gif/epam-testing#readme"
+}
